@@ -1,5 +1,7 @@
 # Elstar React Admin Template (Demo)
 
+https://demo-dashboard-site.netlify.app/sign-in?redirectUrl=/
+
 This is demo version of Elstar React Admin Template, it included everything that can see in the live demo. This version is for referencing purposes only.
 
 Do <strong>NOT</strong> use the this version to build your app, otherwise, your application will have a lot of unnecessary code & implementation and will lead you to a poor development experience.
